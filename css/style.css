@@ -41,6 +41,8 @@ main p{
    margin: 13px;
     font-size: 20px;
     text-align: justify;
+    overflow-x: hidden;
+    overflow-y: scroll;
 }
 main button{
     font-size: 25px;
